@@ -1,0 +1,6 @@
+{
+ "name": "LifeTracker Widget",
+ "short_name": "LifeTracker",
+ "start_url": "index.html",
+ "display": "standalone"
+}
